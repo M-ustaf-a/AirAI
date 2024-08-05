@@ -22,6 +22,9 @@ const iconSrc = [
   "/icons/19.jpg",
   "/icons/20.jpg",
   "/icons/21.jpg",
+  "icons/22.jpg",
+  "icons/23.jpg",
+  "icons/24.jpg"
 ];
 
 export default iconSrc;
